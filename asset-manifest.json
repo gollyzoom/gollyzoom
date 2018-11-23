@@ -1,15 +1,15 @@
 {
-  "main.css": "/gollyzoom/static/css/main.8bbf2d83.chunk.css",
-  "main.js": "/gollyzoom/static/js/main.8d6feb1d.chunk.js",
-  "main.js.map": "/gollyzoom/static/js/main.8d6feb1d.chunk.js.map",
+  "main.css": "/gollyzoom/static/css/main.2834e3b9.chunk.css",
+  "main.js": "/gollyzoom/static/js/main.8d29c733.chunk.js",
+  "main.js.map": "/gollyzoom/static/js/main.8d29c733.chunk.js.map",
   "static/js/1.0b13b488.chunk.js": "/gollyzoom/static/js/1.0b13b488.chunk.js",
   "static/js/1.0b13b488.chunk.js.map": "/gollyzoom/static/js/1.0b13b488.chunk.js.map",
   "runtime~main.js": "/gollyzoom/static/js/runtime~main.32e67b6f.js",
   "runtime~main.js.map": "/gollyzoom/static/js/runtime~main.32e67b6f.js.map",
-  "static/css/main.8bbf2d83.chunk.css.map": "/gollyzoom/static/css/main.8bbf2d83.chunk.css.map",
+  "static/css/main.2834e3b9.chunk.css.map": "/gollyzoom/static/css/main.2834e3b9.chunk.css.map",
   "static/media/index.css": "/gollyzoom/static/media/radiometry.52c67f4e.woff2",
   "static/media/logo.svg": "/gollyzoom/static/media/logo.5d5d9eef.svg",
   "index.html": "/gollyzoom/index.html",
-  "precache-manifest.d07f6ee44ed956bb7e5d38c88314ec63.js": "/gollyzoom/precache-manifest.d07f6ee44ed956bb7e5d38c88314ec63.js",
+  "precache-manifest.42ed577c866613168da57f3e6a9091ea.js": "/gollyzoom/precache-manifest.42ed577c866613168da57f3e6a9091ea.js",
   "service-worker.js": "/gollyzoom/service-worker.js"
 }
