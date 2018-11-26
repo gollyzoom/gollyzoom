@@ -8,23 +8,27 @@ self.__precacheManifest = [
     "url": "/gollyzoom/static/media/logo.5d5d9eef.svg"
   },
   {
+    "revision": "88932dadc42e1bba93b21a76de60ef7a",
+    "url": "/gollyzoom/static/media/Montserrat-Bold.88932dad.ttf"
+  },
+  {
     "revision": "32e67b6f2dae752359f1",
     "url": "/gollyzoom/static/js/runtime~main.32e67b6f.js"
   },
   {
-    "revision": "28dbe54fe485149ff1ac",
-    "url": "/gollyzoom/static/js/main.28dbe54f.chunk.js"
+    "revision": "44e99dbb1cd08c8b75c2",
+    "url": "/gollyzoom/static/js/main.44e99dbb.chunk.js"
   },
   {
     "revision": "0b13b4885e8ccff8ae99",
     "url": "/gollyzoom/static/js/1.0b13b488.chunk.js"
   },
   {
-    "revision": "28dbe54fe485149ff1ac",
-    "url": "/gollyzoom/static/css/main.2834e3b9.chunk.css"
+    "revision": "44e99dbb1cd08c8b75c2",
+    "url": "/gollyzoom/static/css/main.0ef7ba84.chunk.css"
   },
   {
-    "revision": "afa00726988e361ef2150ddc8b356f77",
+    "revision": "efcf1c3969cd55d2ce2ff7a9c77c01bc",
     "url": "/gollyzoom/index.html"
   }
 ];
