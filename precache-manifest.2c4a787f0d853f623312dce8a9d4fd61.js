@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/gollyzoom/static/js/runtime~main.32e67b6f.js"
   },
   {
-    "revision": "8d29c7330fd1c2ddea28",
-    "url": "/gollyzoom/static/js/main.8d29c733.chunk.js"
+    "revision": "28dbe54fe485149ff1ac",
+    "url": "/gollyzoom/static/js/main.28dbe54f.chunk.js"
   },
   {
     "revision": "0b13b4885e8ccff8ae99",
     "url": "/gollyzoom/static/js/1.0b13b488.chunk.js"
   },
   {
-    "revision": "8d29c7330fd1c2ddea28",
+    "revision": "28dbe54fe485149ff1ac",
     "url": "/gollyzoom/static/css/main.2834e3b9.chunk.css"
   },
   {
-    "revision": "99754123354911aa9bd92ed0ee8a6436",
+    "revision": "afa00726988e361ef2150ddc8b356f77",
     "url": "/gollyzoom/index.html"
   }
 ];
