@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/gollyzoom/precache-manifest.6b0cc78dd678b74ada7a1bfbaef35c9e.js"
+  "/gollyzoom/precache-manifest.98328120c4272cd3274b870e1fad324f.js"
 );
 
 workbox.clientsClaim();

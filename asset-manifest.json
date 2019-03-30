@@ -1,15 +1,15 @@
 {
-  "main.css": "/gollyzoom/static/css/main.0ef7ba84.chunk.css",
-  "main.js": "/gollyzoom/static/js/main.84dfa093.chunk.js",
-  "main.js.map": "/gollyzoom/static/js/main.84dfa093.chunk.js.map",
-  "static/js/1.0b13b488.chunk.js": "/gollyzoom/static/js/1.0b13b488.chunk.js",
-  "static/js/1.0b13b488.chunk.js.map": "/gollyzoom/static/js/1.0b13b488.chunk.js.map",
-  "runtime~main.js": "/gollyzoom/static/js/runtime~main.32e67b6f.js",
-  "runtime~main.js.map": "/gollyzoom/static/js/runtime~main.32e67b6f.js.map",
-  "static/css/main.0ef7ba84.chunk.css.map": "/gollyzoom/static/css/main.0ef7ba84.chunk.css.map",
-  "static/media/index.css": "/gollyzoom/static/media/Montserrat-Bold.88932dad.ttf",
-  "static/media/logo.svg": "/gollyzoom/static/media/logo.5d5d9eef.svg",
+  "main.css": "/gollyzoom/static/css/main.efa6495f.chunk.css",
+  "main.js": "/gollyzoom/static/js/main.3b9f9dd3.chunk.js",
+  "main.js.map": "/gollyzoom/static/js/main.3b9f9dd3.chunk.js.map",
+  "runtime~main.js": "/gollyzoom/static/js/runtime~main.0c9e9720.js",
+  "runtime~main.js.map": "/gollyzoom/static/js/runtime~main.0c9e9720.js.map",
+  "static/js/2.160fed0d.chunk.js": "/gollyzoom/static/js/2.160fed0d.chunk.js",
+  "static/js/2.160fed0d.chunk.js.map": "/gollyzoom/static/js/2.160fed0d.chunk.js.map",
   "index.html": "/gollyzoom/index.html",
-  "precache-manifest.6b0cc78dd678b74ada7a1bfbaef35c9e.js": "/gollyzoom/precache-manifest.6b0cc78dd678b74ada7a1bfbaef35c9e.js",
-  "service-worker.js": "/gollyzoom/service-worker.js"
+  "precache-manifest.98328120c4272cd3274b870e1fad324f.js": "/gollyzoom/precache-manifest.98328120c4272cd3274b870e1fad324f.js",
+  "service-worker.js": "/gollyzoom/service-worker.js",
+  "static/css/main.efa6495f.chunk.css.map": "/gollyzoom/static/css/main.efa6495f.chunk.css.map",
+  "static/media/logo.svg": "/gollyzoom/static/media/logo.5d5d9eef.svg",
+  "static/media/App.scss": "/gollyzoom/static/media/woods.b7ab9590.jpg"
 }
