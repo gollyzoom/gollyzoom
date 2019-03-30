@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/gollyzoom/static/css/main.efa6495f.chunk.css"
   },
   {
-    "revision": "9a232c0d965d1c6fbdd72703f7a02ec7",
+    "revision": "d7e755c39725dffff17673ba163aa20d",
     "url": "/gollyzoom/index.html"
   }
 ];
